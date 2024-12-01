@@ -19,4 +19,4 @@
 - Fazer a parte de testes unitários.
 
 # Projeto em execução:
-[![Watch the video](https://www.youtube.com/watch?v=zMxYM5ke1DQ)
+https://www.youtube.com/watch?v=zMxYM5ke1DQ
