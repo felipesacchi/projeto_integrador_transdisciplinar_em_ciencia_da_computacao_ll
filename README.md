@@ -1,4 +1,4 @@
-# ESCake - Loja de Cupcakes
+# Cake - Loja de Cupcakes
 ## Este é um projeto que foi desenvolvido para a faculdade, onde o objetivo foi desenvolver um sistema completo com loguin, pagina de exibição dos produtos, carrinho, favoritos, checkout, envio de e-mails e entre outras funcionalodades.
 # Tecnologias utilizadas:
 - Python
