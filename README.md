@@ -17,6 +17,3 @@
 
 # Features futuras:
 - Fazer a parte de testes unitários.
-
-# Projeto em execução:
-[https://www.youtube.com/watch?v=zMxYM5ke1DQ](https://youtu.be/-XM04B8FZLg)
